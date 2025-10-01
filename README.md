@@ -81,11 +81,3 @@
 </p>
 
 ---
-
-### ☕ Support Me  
-<p align="center">
-  <a href="https://www.buymeacoffee.com/butmeacoffeeArya">
-    <img src="https://storage.ko-fi.com/cdn/kofi1.png?v=3" height="50" width="210" alt="Buy Me A Coffee"/>
-  </a>
-</p>
-

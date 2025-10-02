@@ -28,7 +28,7 @@
 </td>
 <td width="45%" align="center">
 
-<img alt="coding gif" width="300" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGV6Z2kxeXRwcG5meTJtcmpxZTNyaGc4YXB2MmJtZXgybWxobXgyMyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/66M6ZwJkTLYikvhrqZ/giphy.gif">
+<img alt="coding gif" width="300" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGNqbXZidXhmb29hdmxkN2M1eWZxenVtOTBoamowcDAzemdrdWRpciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/S9d8XB557e8phGLBVS/giphy.gif">
 
 </td>
 </tr>
@@ -38,7 +38,7 @@
 
 ### 🌐 Connect with Me  
 <p align="center">
-  <a href="https://linkedin.com/in/arydeepsah16"><img src="https://skillicons.dev/icons?i=linkedin" width="53"/></a>
+  <a href="https://linkedin.com/in/arydeepsah16"><img src="https://skillicons.dev/icons?i=linkedin" width="48"/></a>
   <a href="https://www.leetcode.com/ar_16"><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="55" height="55"/></a>
   <a href="https://auth.geeksforgeeks.org/user/aryas50dy"><img src="https://img.icons8.com/color/48/000000/GeeksforGeeks.png" width="55"/></a>
 </p>
